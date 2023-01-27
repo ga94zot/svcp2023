@@ -1,8 +1,8 @@
 ---
 layout: page
-title: "Program"
-permalink: /program/
-photo: "hearling_lab.jpg"
+title: "How to participate"
+permalink: /howto/
+photo: "ml2.jpg"
 ---
 
 
