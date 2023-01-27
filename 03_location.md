@@ -2,7 +2,7 @@
 layout: page
 title: "Location"
 permalink: /location/
-photo: "header-drehregler_eS_1920q.jpg"
+photo: "tum-donau.jpg"
 ---
 The summer school takes place at the [TU Ilmenau](https://www.tu-ilmenau.de) and is locally organized by the [Audiovisual Technology Group](https://www.tu-ilmenau.de/en/university/departments/department-of-electrical-engineering-and-information-technology/profile/institutes-and-groups/audiovisual-technology-group).
 
