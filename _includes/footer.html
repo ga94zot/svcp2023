@@ -1,0 +1,21 @@
+<footer class="site-footer h-card">
+  <data class="u-url" href="{{ "/" | relative_url }}"></data>
+
+  <div class="wrapper">
+
+    <!-- <h2 class="footer-heading">{{ site.title | escape }}</h2>-->
+
+    <div class="footer-col-wrapper" style="margin-left: 0px;">
+            <a href="https://www.tu-ilmenau.de/en/"><img src="{{ "/assets/images/Logo_TU_Ilmenau.jpg" | absolute_url }}"  style="height: 60px; margin-bottom:1em" /></a>
+            <hr style="border-top: 1px solid #e8e8e8; margin-bottom: 0.5em">
+            {%- if site.author -%}
+              {{ site.author | escape | markdownify }}
+            {%- else -%}
+              {{ site.title | escape | markdownify }}
+            {%- endif -%}
+
+    </div>
+
+  </div>
+
+</footer>
