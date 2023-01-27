@@ -2,7 +2,7 @@
 layout: page
 title: "How to participate"
 permalink: /howto/
-photo: "ml2.jpg"
+photo: "header-tum.jpg"
 ---
 
 
