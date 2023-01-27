@@ -1,12 +1,9 @@
 ---
+layout: home
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 ---
 
----
-layout: home
-<!-- list_title: "News" -->
----
 
 The **8th ITG/VDE Graduate Summer School on Video Compression and Processing** is aiming at providing a forum for informal knowledge exchange and discussion of innovative research ideas among doctoral students working in the field of image and video communication and image signal processing. 
 The summer school atmosphere is intended to be very informal and less restrictive than a typical workshop or conference, thus stimulating discussions and inspiring joint research among the participating PhD students. 
