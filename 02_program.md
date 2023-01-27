@@ -2,7 +2,7 @@
 layout: page
 title: "Program"
 permalink: /program/
-photo: "hearling_lab.jpg"
+photo: "header-lab.jpg"
 ---
 
 
