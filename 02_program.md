@@ -6,7 +6,7 @@ photo: "header-lab.jpg"
 ---
 
 
-| Sunday, **03 July 2022**  	  | Monday, **04 July 2022**   		 			| Tuesday, **05 July 2022**   	  					|
+<!-- | Sunday, **03 July 2022**  	  | Monday, **04 July 2022**   		 			| Tuesday, **05 July 2022**   	  					|
 | ==========================	  | ================================ 			| ==========================  	  					|
 | 		 		            	  | **08:00** Registration and Preparation		| **08:30** Registration and Preparation			|
 | 			   	             	  | **09:00** Welcome and Keynote         		| **09:00** Session 6: Image Coding	  				|
@@ -19,19 +19,23 @@ photo: "header-lab.jpg"
 | 				             	  | **15:20** Poster Session + _Coffee break_	| Departure  					 					|
 | Arrival			           	  | **16:20** Session 5: Video					| 			                      	 				|
 | 			 		        	  | **17:45** Networking Hike to Gabelbach		|                            	 	    			|
-| **19:00**	Pre-Event at BC club  | **19:45** Social Event at Gabelbach			|                            	   					|
+| **19:00**	Pre-Event at BC club  | **19:45** Social Event at Gabelbach			|                            	   					| -->
 
 
 
 ## Pre-School Event
-The pre-school event will be held on Sunday, **03 July 2022** at [BC-club](https://bc-club.de/) (student club of Ilmenau).
+To be announced.
+
+<!-- The pre-school event will be held on Sunday, **03 July 2022** at [BC-club](https://bc-club.de/) (student club of Ilmenau).
 
 <a href="https://osm.org/go/0GqhODM8D?m=" target="_blank">Location.</a> **Starting time: 19:00**
 
-You will receive a Welcome Snack from the barbecue and will get free entry to the club's Sunday event. This event is for PhD students and others to meet and greet and exchange before the actual summer school starts. 
+You will receive a Welcome Snack from the barbecue and will get free entry to the club's Sunday event. This event is for PhD students and others to meet and greet and exchange before the actual summer school starts.  -->
 
 ## Keynote/Invited Lecture
+To be announced.
 
+<!-- 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -58,16 +62,18 @@ You will receive a Welcome Snack from the barbecue and will get free entry to th
     <td class="tg-zv4m"> <b> About Christian Feldmann:</b> He is a video coding engineer at Bitmovin working on next generation video coding technologies in the most recent video coding standards, such as HEVC, VVC and AV1. His main focus points at Bitmovin are practical application of video and transport standards in the scalable cloud transcoding solution. After his study of computer engineering at RWTH University Aachen, he completed his doctoral degree (PhD) at the Institut für Nachrichtentechnik (Institute for Communication Technologies) in Aachen. With his detailed experience in video coding, he is developing video coding technologies for the future of video coding. Christian participates in the standardization activities of the Moving Picture Experts Group (MPEG).</td>
   </tr>
 </thead>
-</table>
+</table> -->
 
 ## Social Event
-It is planned to have a 2 hour networking [hike](https://www.komoot.de/tour/682677680) towards [Hotel Gabelbach](https://www.hotel-gabelbach.de/) right after Session 5 on Monday. There, an included joint dinner will take place. 
+To be announced.
+
+<!-- It is planned to have a 2 hour networking [hike](https://www.komoot.de/tour/682677680) towards [Hotel Gabelbach](https://www.hotel-gabelbach.de/) right after Session 5 on Monday. There, an included joint dinner will take place.  -->
 
 
 <!--
 see https://docs.google.com/spreadsheets/d/1IVdIfluCmr0be2mbwWO3kygN5dKwvPShAeXnKV_wxrs
 -->
-
+<!-- 
 ## Session 1: Video Compression Performance
 * Christian Herglotz (FAU Erlangen-Nürnberg): [Beyond Bjøntegaard: Limits of Video Compression Performance Comparisons](/SVCP2022/assets/pdfs/Session1/svcp_christian_Herglotz.pdf)
 * Sophie Pientka (Fraunhofer HHI): [Rate-Distortion-Optimization for Deep Image Compression](/SVCP2022/assets/pdfs/Session1/svcp_Sophie_Pientka.pdf)
@@ -122,9 +128,12 @@ see https://docs.google.com/spreadsheets/d/1IVdIfluCmr0be2mbwWO3kygN5dKwvPShAeXn
 * Dominik Mehlem (RWTH Aachen): [Entropy Coding of Neural Network Latent Space Coefficients for Point Clouds](/SVCP2022/assets/pdfs/PosterSession/svcp_Dominik_Mehlem.pdf)
 * Tomasz Konaszynski (AGH Krakow): [Analysis of context factors affecting human perceptions of 360º video quality](/SVCP2022/assets/pdfs/PosterSession/svcp_Tomasz_Konaszynski.pdf)
 * Ashutosh Singla (Technische Universität Ilmenau): [Holistic Assessment of 360° Video QoE](/SVCP2022/assets/pdfs/PosterSession/svcp_Ashutosh_Singla.pdf)
-
+ -->
+ 
 ## Demos 
+To be announced.
 
+<!-- 
 ### Hearing in Mixed Reality
 A current trend in research and development is the extension of reality by adding artificial, virtual objects to realize mixed reality and augmented reality. The lab tour deals with methods and possibilities of measurement and auralization for the creation of virtual audio objects in the real listening environment. An audio system is presented in a practical way, in which all essential components for audio augmented reality are included, from recording to signal analysis and signal processing to playback. In addition to the headphone-based dynamic binaural audio reproduction, an (ambisonic-based) 22.2 loudspeaker reproduction will be presented, which gives an insight into the current loudspeaker-based sound reproduction of e.g. cinemas.
 ### IVE for educational research
@@ -141,4 +150,4 @@ We are happy to show our fully functional HD studio suitable for offline and liv
 ### Student film productions
 We encourage students to produce short films, movies, music videos, and audio productions in our labs. With regard to audio, voice-overs can be recorded and media productions can be edited. Some students projects are shown. 
 ### 4K HDR Reference Screen
-A professional reference monitor offers 4K HDR image quality, accuracy and consistency, making it perfect for demanding on-set, studio and post-production applications, including 4K digital film production. The capabilities are demonstrated with a few test sequences.
+A professional reference monitor offers 4K HDR image quality, accuracy and consistency, making it perfect for demanding on-set, studio and post-production applications, including 4K digital film production. The capabilities are demonstrated with a few test sequences. -->
