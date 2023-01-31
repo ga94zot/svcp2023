@@ -61,35 +61,3 @@ You are also welcome to contact the tourist office of Ilmenau: stadtinfo@ilmenau
 **Veranstaltungsforum Fürstenfeld**
 
 **Fürstenfeld 12, 82256 Fürstenfeldbruck** 
-<!-- 
-### Technische Universität Ilmenau
-TU Ilmenau is a German public research university. 
-It was founded in 1894 as a private educational institution named Thüringisches Technikum Ilmenau, later Engineering School. 
-Technische Universität Ilmenau has a total of 5 academic departments (faculties) and about 5,200 students. 
-
-_Text taken and translated from the German and English Wikipedia articles about TU Ilmenau._
-
-* Watch our [TU Ilmenau image film](https://www.youtube.com/watch?time_continue=2&v=UIDUHVZVIgA).
-
-
-
-### The City of Ilmenau
-A nursery rhyme describes the city that way:
-
-    "In Ilmenau, da ist der Himmel blau,
-    da tanzt der Ziegenbock mit seiner Frau."
-
-    "In Ilmenau, the sky is blue,
-    the billy goat dances with his wife"
-
-Probably this is supposed to indicate a föhn-like weather phenomenon, which makes the sky above Ilmenau appear remarkably often blue. 
-But find out for yourself here :-)
-
-The Goethe and university town, formerly a mountain and bathing town, is famous for its charming scenic location on the northern edge of the Thuringian Forest in the upper Ilm valley.
-The town lies between 475 and 580 m above sea level in the UNESCO Biosphere Reserve Thuringian Forest and Thuringian Basin. 
-The highest peak is the local mountain Kickelhahn with 861 m.
-
-_Text taken and translated from the [City of Ilmenau Website](https://www.ilmenau.de/de/unsere-stadt/stadt-und-ortsteilinfos/geschichte/)_
-
-* Image film City of Ilmenau: [at Youtube](https://www.youtube.com/watch?v=SnPiFXx1NIo&feature=youtu.be)
-* See also at [Wikipedia](https://en.wikipedia.org/wiki/Ilmenau) -->
