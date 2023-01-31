@@ -22,26 +22,26 @@ Submission details will come soon.
 
 ## Options of attendance
 With an accepted abstract, you have two different options of presenting your work: 
-* an oral presentation: 15 minutes long plus 4 minutes of Q&A
-* a prepared poster that you can present to interested attendees in a specific poster session (poster format: upright, maximum size 70cm x 100cm)
+* An oral presentation: 15 minutes long plus 4 minutes of Q&A
+* A prepared poster that you can present to interested attendees in a specific poster session (poster format: upright, maximum size 70cm x 100cm)
 
 If there are still attendance slots open, there will be an option to also attend without presenting work.
 
 ## Registration
 
 Registration **with** guaranteed hotel reservation: **27 Feb. 2023**
-Price include Coffee, Lunchs, Social Event, and with Hotel Room: **???**
+* Price include Coffee, Lunchs, Social Event, and with Hotel Room: **???**
 
 Registration **without** guaranteed hotel reservation: **15 May 2023**
-Price include Coffee, Lunchs, Social Event, and with Hotel Room: **???**
+* Price include Coffee, Lunchs, Social Event, and with Hotel Room: **???**
 
 <!--
 **REGISTRATION and PAYMENT LINK** is given out on request only. If you are interested in participating without speaking, please reach out to [us](mailto:svcp2022@tu-ilmenau.de).
 
 https://conferences.tu-ilmenau.de/frontend/index.php?sub=365
 -->
-
-Price: 200€ incl. Coffee, Lunchs, and Social Event. 
+<!-- 
+Price: 200€ incl. Coffee, Lunchs, and Social Event.  -->
 
 ## Summer School Dates
 * Registration deadline (with hotel reservation): 27 Feb. 2023
