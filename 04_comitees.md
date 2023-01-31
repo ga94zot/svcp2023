@@ -9,11 +9,16 @@ photo: "header-munichdata.jpg"
 
 * Prof. Dr.-Ing. André Kaup, Friedrich-Alexander-University Erlangen-Nürnberg, Germany
 * Prof. Dr.-Ing. Jens-Rainer Ohm, RWTH Aachen University, Germany
-* Prof. Dr.-Ing. Alexander Raake, TU Ilmenau, Germany
+* Prof. Dr.-Ing. Eckehard Steinbach, TU Munich, Germany
 
 
 ## Organizing Committee
 
+* Eckehard Steinbach, TU Munich, Germany
+* Yuankai Wu, TU Munich, Germany
+* Etienne Mayer, TU Munich, Germany
+
+<!-- 
 Audiovisual Technology Group of Technische Universität Ilmenau
 * Alexander Raake, TU Ilmenau, Germany
 * Monique Rodegast, TU Ilmenau, Germany
@@ -23,3 +28,4 @@ Audiovisual Technology Group of Technische Universität Ilmenau
 * Eckhardt Schön, TU Ilmenau 
 * [Dominik Keller, TU Ilmenau](https://www.tu-ilmenau.de/mt-avt/team-fachgebiet-audiovisuelle-technik/dominik-keller)
 
+ -->
