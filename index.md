@@ -1,5 +1,6 @@
 ---
 layout: home
+list_title: "News"
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 ---
@@ -42,6 +43,3 @@ ITG-Fachausschuss MT 2 "Bildkommunikation und Bildverarbeitung"
 <!-- [![Huawei logo?](/assets/images/huawei-logo.png)](https://www.ce.cit.tum.de/lmt/startseite/) -->
 [![Huawei logo?]
 
-## News
-Feb. 1
-WWW up
