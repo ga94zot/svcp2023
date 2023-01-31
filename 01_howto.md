@@ -51,7 +51,7 @@ Price: 200€ incl. Coffee, Lunchs, and Social Event.  -->
 ## Awards
 
 ### Best Presentation Award
-Directly after the last presentation at the Summer School the participants vote democratically for their favourite presentations. The two winners will recieve a certificate and 250 Euro each. 
+Directly after the last presentation at the Summer School the participants vote democratically for their favourite presentations. The two winners will receive a certificate and 250 Euro each. 
 
 
 
