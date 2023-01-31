@@ -10,16 +10,9 @@ The summer school takes place at the [Veranstaltungsforum Fürstenfeld](https://
 ## How to get here?
 You can take **S4** from **Munich Central Station** to **Fürstenfeldbruck**, then walk about 1.2km to the destination (about 10 minutes).
 
-<!-- Ilmenau can be easily reached with Deutsche Bahn via ICE stop in Erfurt. 
-There are hourly trains going from Ilmenau to Erfurt and vice versa. 
-The Summer School will take place at the Hans-Stamm-Campus location of TU Ilmenau.  -->
 
 Address: **Fürstenfeld 12, 82256 Fürstenfeldbruck** 
 
-<!-- <iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=10.93641221523285%2C50.6802634818807%2C10.94089150428772%2C50.68182536509523&amp;layer=mapnik&amp;marker=50.681043580212666%2C10.938651859760284" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=50.68104&amp;mlon=10.93865#map=19/50.68104/10.93865">show map</a></small>
-
- -->
-<!-- Demos will be in other places near Medialab II. -->
 
 ## Accommodation
 
@@ -39,7 +32,6 @@ In case you prefer other accommodation possibilities, here are alternate options
  
 
 
-You are also welcome to contact the tourist office of Ilmenau: stadtinfo@ilmenau.de -->
 
 
 ## Venue
