@@ -21,8 +21,11 @@ description: >- # this means to ignore newlines until "baseurl:"
   Google search results) and in your feed.xml site description.
 baseurl: "/www_web" # the subpath of your site, e.g. /blog
 url: "https://ga94zot.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+
+author: "[Chair of Media Technology](https://www.ce.cit.tum.de/en/lmt/home/) --  [Technische Universität München](https://www.tum.de/en/) -- [Imprint/Impressum](https://www.tum.de/ueber-die-tum/kontakt-und-anfahrt/impressum)"
+
+# twitter_username: jekyllrb
+# github_username:  jekyll
 
 # Build settings
 markdown: kramdown
