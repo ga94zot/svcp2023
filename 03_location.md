@@ -27,32 +27,17 @@ Address: **Fürstenfeld 12, 82256 Fürstenfeldbruck**
 
 Hotel rooms can be reserved via the early registration. Registrations received after **27 Feb. 2023** do not include a hotel reservation.
 
-<!-- The traditional [Hotel Tanne](https://www.hotel-tanne-thueringen.de/), which exists since 1898, is centrally located in the Goethe and university city of Ilmenau. 
-Several rooms has been reserved for the workshop period:
-
-* Standard Single Room (per night, incl. breakfast & taxes) 80.00 €
-* Standard Double Room (per night, incl. breakfast & taxes) 105.00 €
-
-In order to arrange your stay, please reserve your room with the keyword "SVCP 2022" until **20th June, 2022** with the hotel: 
-
-* info@hotel-tanne-thueringen.de
-* Phone: +49 3677 6590
-
-All booking requests are handled by the hotel on a first come first served basis. -->
 
 
 ### Other Accommodation
 In case you prefer other accommodation possibilities, here are alternate options by hotels:
- 
-To be announced.
 
-
-<!-- * [Hotel Mara](https://www.mara-hotel.de/)
-* [Hotels and Guest Houses](https://www.ilmenau.de/en/tourism/food-and-book/overnight-stay/hotels-and-guest-houses/)
-* [Apartments in Ilmenau](https://www.ilmenau.de/en/tourism/food-and-book/overnight-stay/apartments/)
-* [Bed and Breakfast](https://www.ilmenau.de/en/tourism/food-and-book/overnight-stay/bed-and-breakfast/)
-* Short-term rentals via [student dormitory](https://www.stw-thueringen.de/en/housing/short-term-rentals.html)
+* [Romantik Hotel zur Post](https://www.hotelpost-ffb.de/)
+* [Amper Art Hotel & Boardinghouse](https://www.amper-art-hotel.de/)
+* [Landhotel Grätz](https://www.gasthof-graetz.de/)
 * Airbnb
+ 
+
 
 You are also welcome to contact the tourist office of Ilmenau: stadtinfo@ilmenau.de -->
 
