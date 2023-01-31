@@ -23,7 +23,7 @@ Address: **Fürstenfeld 12, 82256 Fürstenfeldbruck**
 
 ## Accommodation
 
-### Hotel Fürstenfelder
+### [Hotel Fürstenfelder](https://www.fuerstenfelder.com/)
 
 Hotel rooms can be reserved via the early registration. Registrations received after **27 Feb. 2023** do not include a hotel reservation.
 
