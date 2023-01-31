@@ -41,3 +41,7 @@ ITG-Fachausschuss MT 2 "Bildkommunikation und Bildverarbeitung"
 ## Sponsors
 <!-- [![Huawei logo?](/assets/images/huawei-logo.png)](https://www.ce.cit.tum.de/lmt/startseite/) -->
 [![Huawei logo?]
+
+## News
+Feb. 1
+WWW up
