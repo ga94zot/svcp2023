@@ -40,5 +40,5 @@ The aim is to bring together young researchers with similar topics and provide a
 ITG-Fachausschuss MT 2 "Bildkommunikation und Bildverarbeitung"
 
 ## Sponsors
-[![Huawei logo?]
+[Logo?]
 
