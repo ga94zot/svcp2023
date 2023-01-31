@@ -1,7 +1,8 @@
 ---
-layout: New
-title: WWW up
+layout: post
+title: "WWW up"
 ---
+www website update
 
 <!-- title:  "Welcome to Jekyll!"
 date:   2023-01-27 15:41:19 +0100 -->
