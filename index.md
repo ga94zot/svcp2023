@@ -32,8 +32,8 @@ The aim is to bring together young researchers with similar topics and provide a
 
 ## Organizers 
 
-![VDE logo](/assets/images/tum-logo.png) 
-![ITG logo](/assets/images/lmt-logo.png)
+![VDE logo](/assets/images/vde-logo.png) 
+![ITG logo](/assets/images/itg-logo.png)
 ![Infan logo](/assets/images/lmt-logo.png)
 
 ITG-Fachausschuss MT 2 "Bildkommunikation und Bildverarbeitung"
