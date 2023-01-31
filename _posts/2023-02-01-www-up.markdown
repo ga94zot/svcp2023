@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "WWW up"
+date:   2023-02-01
 ---
 www website update
 
