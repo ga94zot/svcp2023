@@ -14,7 +14,7 @@ photo: "header-munichdata.jpg"
 
 ## Organizing Committee
 
-* Eckehard Steinbach, TU Munich, Germany
+* Prof. Dr.-Ing. Eckehard Steinbach, TU Munich, Germany
 * Yuankai Wu, TU Munich, Germany
 * Etienne Mayer, TU Munich, Germany
 
