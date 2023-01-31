@@ -4,25 +4,30 @@ title: "Location"
 permalink: /location/
 photo: "tum-donau.jpg"
 ---
-The summer school takes place at the [TU Ilmenau](https://www.tu-ilmenau.de) and is locally organized by the [Audiovisual Technology Group](https://www.tu-ilmenau.de/en/university/departments/department-of-electrical-engineering-and-information-technology/profile/institutes-and-groups/audiovisual-technology-group).
+The summer school takes place at the [Veranstaltungsforum Fürstenfeld](https://www.fuerstenfeld.de) in Fürstenfeldbruck (20km from Munich) and is locally organized by the [Chair of Media Technology](https://www.ce.cit.tum.de/en/lmt/).
 
 
 ## How to get here?
-Ilmenau can be easily reached with Deutsche Bahn via ICE stop in Erfurt. 
+You can take **S4** from **Munich Central Station** to **Fürstenfeldbruck**, then walk about 1.2km to the destination (about 10 minutes).
+
+<!-- Ilmenau can be easily reached with Deutsche Bahn via ICE stop in Erfurt. 
 There are hourly trains going from Ilmenau to Erfurt and vice versa. 
-The Summer School will take place at the Hans-Stamm-Campus location of TU Ilmenau. 
+The Summer School will take place at the Hans-Stamm-Campus location of TU Ilmenau.  -->
 
-**Medialab II (ML2) (Room 104), Am Helmholtzring 9, 98693 Ilmenau, Deutschland** 
+Address: **Fürstenfeld 12, 82256 Fürstenfeldbruck** 
 
-<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=10.93641221523285%2C50.6802634818807%2C10.94089150428772%2C50.68182536509523&amp;layer=mapnik&amp;marker=50.681043580212666%2C10.938651859760284" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=50.68104&amp;mlon=10.93865#map=19/50.68104/10.93865">show map</a></small>
+<!-- <iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=10.93641221523285%2C50.6802634818807%2C10.94089150428772%2C50.68182536509523&amp;layer=mapnik&amp;marker=50.681043580212666%2C10.938651859760284" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=50.68104&amp;mlon=10.93865#map=19/50.68104/10.93865">show map</a></small>
 
-
-Demos will be in other places near Medialab II.
+ -->
+<!-- Demos will be in other places near Medialab II. -->
 
 ## Accommodation
 
-### Hotel Tanne Ilmenau
-The traditional [Hotel Tanne](https://www.hotel-tanne-thueringen.de/), which exists since 1898, is centrally located in the Goethe and university city of Ilmenau. 
+### Hotel Fürstenfelder
+
+Hotel rooms can be reserved via the early registration. Registrations received after **27 Feb. 2023** do not include a hotel reservation.
+
+<!-- The traditional [Hotel Tanne](https://www.hotel-tanne-thueringen.de/), which exists since 1898, is centrally located in the Goethe and university city of Ilmenau. 
 Several rooms has been reserved for the workshop period:
 
 * Standard Single Room (per night, incl. breakfast & taxes) 80.00 €
@@ -33,24 +38,30 @@ In order to arrange your stay, please reserve your room with the keyword "SVCP 2
 * info@hotel-tanne-thueringen.de
 * Phone: +49 3677 6590
 
-All booking requests are handled by the hotel on a first come first served basis.
+All booking requests are handled by the hotel on a first come first served basis. -->
 
 
 ### Other Accommodation
-In case you prefer other accommodation possibilities, the city of Ilmenau and its surroundings offer further hotels, guest houses, private rooms, apartments etc. You can find a list here:
+In case you prefer other accommodation possibilities, here are alternate options by hotels:
+ 
+To be announced.
 
-* [Hotel Mara](https://www.mara-hotel.de/)
+
+<!-- * [Hotel Mara](https://www.mara-hotel.de/)
 * [Hotels and Guest Houses](https://www.ilmenau.de/en/tourism/food-and-book/overnight-stay/hotels-and-guest-houses/)
 * [Apartments in Ilmenau](https://www.ilmenau.de/en/tourism/food-and-book/overnight-stay/apartments/)
 * [Bed and Breakfast](https://www.ilmenau.de/en/tourism/food-and-book/overnight-stay/bed-and-breakfast/)
 * Short-term rentals via [student dormitory](https://www.stw-thueringen.de/en/housing/short-term-rentals.html)
 * Airbnb
 
-You are also welcome to contact the tourist office of Ilmenau: stadtinfo@ilmenau.de
+You are also welcome to contact the tourist office of Ilmenau: stadtinfo@ilmenau.de -->
 
 
 ## Venue
+**Veranstaltungsforum Fürstenfeld**
 
+**Fürstenfeld 12, 82256 Fürstenfeldbruck** 
+<!-- 
 ### Technische Universität Ilmenau
 TU Ilmenau is a German public research university. 
 It was founded in 1894 as a private educational institution named Thüringisches Technikum Ilmenau, later Engineering School. 
@@ -81,4 +92,4 @@ The highest peak is the local mountain Kickelhahn with 861 m.
 _Text taken and translated from the [City of Ilmenau Website](https://www.ilmenau.de/de/unsere-stadt/stadt-und-ortsteilinfos/geschichte/)_
 
 * Image film City of Ilmenau: [at Youtube](https://www.youtube.com/watch?v=SnPiFXx1NIo&feature=youtu.be)
-* See also at [Wikipedia](https://en.wikipedia.org/wiki/Ilmenau)
+* See also at [Wikipedia](https://en.wikipedia.org/wiki/Ilmenau) -->
