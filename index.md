@@ -10,8 +10,10 @@ The summer school atmosphere is intended to be very informal and less restrictiv
 
 ## Important Dates
 
-* Pre-School Event: evening of **03 July 2023** 
-* Summer School: **04 -- 05 July 2023** 
+<!-- * Pre-School Event: evening of **03 July 2023**  -->
+* Registration deadline (**with** hotel reservation): **27 Feb. 2023**
+* Registration deadline (**without** hotel reservation): **15 May 2023**
+* Summer School: **03 -- 04 July 2023** 
 
 ## Topics of Interest
 
@@ -30,11 +32,12 @@ The aim is to bring together young researchers with similar topics and provide a
 
 ## Organizers 
 
-![TUM logo](/assets/images/tum-logo.png) 
-![LMT logo](/assets/images/lmt-logo.png)
+![VDE logo](/assets/images/tum-logo.png) 
+![ITG logo](/assets/images/lmt-logo.png)
+![Infan logo](/assets/images/lmt-logo.png)
 
-ITG-Fachausschusses MT 2 "Bildkommunikation und Bildverarbeitung"
+ITG-Fachausschuss MT 2 "Bildkommunikation und Bildverarbeitung"
 
 ## Sponsors
-
-[![technoteam logo](/assets/images/lmt-logo.png)](https://www.ce.cit.tum.de/lmt/startseite/)
+<!-- [![Huawei logo?](/assets/images/huawei-logo.png)](https://www.ce.cit.tum.de/lmt/startseite/) -->
+[![Huawei logo?]
