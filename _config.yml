@@ -22,7 +22,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "/www_web" # the subpath of your site, e.g. /blog
 url: "https://ga94zot.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
-author: "[Chair of Media Technology](https://www.ce.cit.tum.de/en/lmt/home/) --  [Technische Universität München](https://www.tum.de/en/) -- [Imprint/Impressum](https://www.tum.de/ueber-die-tum/kontakt-und-anfahrt/impressum)"
+author: "[Chair of Media Technology](https://www.ce.cit.tum.de/en/lmt/home/) --  [Technische Universität München](https://www.tum.de/en/) -- [Imprint/Impressum](https://www.ce.cit.tum.de/en/lmt/impressum/)"
 
 # twitter_username: jekyllrb
 # github_username:  jekyll
