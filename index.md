@@ -16,6 +16,8 @@ The summer school atmosphere is intended to be very informal and less restrictiv
 * Registration deadline (**without** hotel reservation): **15 May 2023**
 * Summer School: **03 -- 04 July 2023** 
 
+**The available rooms will be assigned on a first come first serve basis.**
+
 ## Topics of Interest
 
 * Techniques for next generation image and video coding
