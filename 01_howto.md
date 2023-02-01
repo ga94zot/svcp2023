@@ -50,9 +50,8 @@ Price: 200€ incl. Coffee, Lunchs, and Social Event.  -->
 
 ## Awards
 
-### Best Presentation Award
-Directly after the last presentation at the Summer School the participants vote democratically for their favourite presentations. The two winners will receive a certificate and 250 Euro each. 
-
+### Best Presentation/Poster Award
+Directly after the last presentation/poster award at the Summer School the participants vote democratically for their favourite presentations/posters award. The two winners will receive a certificate and 250 Euro each. 
 
 
 ### Joint Research Incubator Award
