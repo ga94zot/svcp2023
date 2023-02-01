@@ -35,6 +35,8 @@ Registration **with** guaranteed hotel reservation: **27 Feb. 2023**
 Registration **without** guaranteed hotel reservation: **15 May 2023**
 * Price include Coffee, Lunchs, Social Event, and with Hotel Room: **???**
 
+**The available rooms will be assigned on a first come first serve basis.**
+
 <!--
 **REGISTRATION and PAYMENT LINK** is given out on request only. If you are interested in participating without speaking, please reach out to [us](mailto:svcp2022@tu-ilmenau.de).
 
