@@ -14,9 +14,9 @@ The summer school atmosphere is intended to be very informal and less restrictiv
 <!-- * Pre-School Event: evening of **03 July 2023**  -->
 * Registration deadline (**with** hotel reservation): **27 Feb. 2023**
 * Registration deadline (**without** hotel reservation): **15 May 2023**
+* Welcome dinner: evening of **02 July 2023 (Starts at 19:30)**
 * Summer School: **03 -- 04 July 2023** 
 
-**The available rooms will be assigned on a first come first serve basis.**
 
 ## Topics of Interest
 
