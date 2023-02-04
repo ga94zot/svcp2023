@@ -27,7 +27,7 @@ photo: "header-lab.jpg"
 ## Pre-School Event
 
 ###  Joint Dinner on Sunday Evening 
-We will have a joint dinner on Sunday evevning **02 July 2023**, start will be at **19:30**.
+We will have a joint dinner on Sunday evening **02 July 2023**, start will be at **19:30**.
 
 <!-- The pre-school event will be held on Sunday, **03 July 2022** at [BC-club](https://bc-club.de/) (student club of Ilmenau).
 
