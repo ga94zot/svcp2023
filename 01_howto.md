@@ -30,10 +30,10 @@ If there are still attendance slots open, there will be an option to also attend
 ## Registration
 
 Registration **with** guaranteed hotel reservation: **27 Feb. 2023**
-* Price include Coffee, Lunchs, Social Event, and with Hotel Room: **???**
+* Price includes Coffee, Lunchs, Dinner, Social Event, and Hotel Room: **???**
 
 Registration **without** guaranteed hotel reservation: **15 May 2023**
-* Price include Coffee, Lunchs, Social Event, and with Hotel Room: **???**
+* Price includes Coffee, Lunch, Dinner, Social Event (**no** Hotel Room): **???**
 
 **The available rooms will be assigned on a first come first serve basis.**
 
@@ -48,12 +48,13 @@ Price: 200€ incl. Coffee, Lunchs, and Social Event.  -->
 ## Summer School Dates
 * Registration deadline (with hotel reservation): 27 Feb. 2023
 * Registration deadline (without hotel reservation): 15 May 2023
+* Welcome dinner: evening of **02 July 2023 (Starts at 19:30)**
 * Summer School: **03 -- 04 July 2023** 
 
 ## Awards
 
 ### Best Presentation/Poster Award
-Directly after the last presentation/poster award at the Summer School the participants vote democratically for their favourite presentation/poster award. The two winners will receive a certificate and 250 Euro each. 
+Directly after the last presentation at the Summer School the participants vote democratically for their favourite presentation/poster. The two winners will receive a certificate and 250 Euro each. 
 
 
 ### Joint Research Incubator Award
