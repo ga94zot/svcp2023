@@ -18,12 +18,12 @@ Address: **Fürstenfeld 12, 82256 Fürstenfeldbruck**
 
 ### [Hotel Fürstenfelder](https://www.fuerstenfelder.com/)
 
-Hotel rooms can be reserved via the early registration. Registrations received after **27 Feb. 2023** do not include a hotel reservation.
+Hotel rooms can be reserved via the early registration. The available rooms will be assigned on a FCFS basis. Registrations received after **27 Feb. 2023** do not include a hotel reservation.
 
 
 
 ### Other Accommodation
-In case you prefer other accommodation possibilities, here are alternate options by hotels:
+In case you prefer other accommodation possibilities, here are some alternatives:
 
 * [Romantik Hotel zur Post](https://www.hotelpost-ffb.de/)
 * [Amper Art Hotel & Boardinghouse](https://www.amper-art-hotel.de/)
