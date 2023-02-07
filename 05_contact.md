@@ -2,6 +2,7 @@
 layout: page
 title: "Contact"
 permalink: /contact/
+photo: "header-6.jpg"
 ---
 
 In case you have any questions please contact:
