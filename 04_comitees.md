@@ -2,7 +2,7 @@
 layout: page
 title: "Committees"
 permalink: /committees/
-photo: "header-munichdata.jpg"
+photo: "header-5.jpg"
 ---
 
 ## Scientific Chairs
