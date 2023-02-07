@@ -2,7 +2,7 @@
 layout: page
 title: "Location"
 permalink: /location/
-photo: "header-location.jpg"
+photo: "header-station.jpg"
 ---
 The summer school takes place at the [Veranstaltungsforum Fürstenfeld](https://www.fuerstenfeld.de) in Fürstenfeldbruck (20km from Munich) and is locally organized by the [Chair of Media Technology](https://www.ce.cit.tum.de/en/lmt/).
 
