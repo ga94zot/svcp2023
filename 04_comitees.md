@@ -14,7 +14,6 @@ photo: "header-5.jpg"
 
 ## Organizing Committee
 
-* Technical University of Munich (TUM), Germany
 * Prof. Dr.-Ing. Eckehard Steinbach, TU Munich, Germany
 * Yuankai Wu, TU Munich, Germany
 * Etienne Mayer, TU Munich, Germany
