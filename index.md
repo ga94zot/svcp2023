@@ -17,7 +17,7 @@ The summer school atmosphere is intended to be very informal and less restrictiv
 * Welcome dinner: evening of **02 July 2023 (Starts at 19:30)**
 * Summer School: **03 -- 04 July 2023** 
 
-**For the registration, this [SVCP2023 Registration](/assets/images/SVCP2023_Registration.pdf) form needs to be filled ín, signed and returned to Etienne.Mayer@tum.de**
+For the registration, the [SVCP2023 Registration](/assets/images/SVCP2023_Registration.pdf) form needs to be filled in, signed and returned to [Etienne.Mayer@tum.de](etienne.mayer@tum.de)
 
 ## Topics of Interest
 
