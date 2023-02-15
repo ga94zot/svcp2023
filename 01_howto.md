@@ -16,7 +16,7 @@ Submission/Registration/Payment and Important Dates are provided in the sections
 ## Submission
 For the submission, a title, an abstract (200 words), the name of the author(s), and an email address and affiliation of the presenting author are required.
 
-The submission system will be open until **May 1**.
+The submission deadline is **May 1**.
 
 **For the submission**, the [SVCP2023 Submission](/assets/images/SVCP2023_Submission_form.docx) form needs to be filled in and returned to:
 
