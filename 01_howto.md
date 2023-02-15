@@ -18,7 +18,7 @@ For the submission, a title, an abstract (200 words), the name of the author(s),
 
 The submission system will be open until **May 1**.
 
-[Submit](https://ga94zot.github.io/svcp2023_submission.github.io/)
+You can click [here](https://eu.jotform.com/tables/230453536252047) to submit. If you do not have access, please contact [Yuankai.Wu@tum.de](yuankai.wu@tum.de).
 
 
 <!-- **<a href="https://forms.gle/AXNcvgL7TkZaFQrL6" target="_blank">Submission link</a>**  -->
