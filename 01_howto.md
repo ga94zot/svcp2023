@@ -16,7 +16,10 @@ Submission/Registration/Payment and Important Dates are provided in the sections
 ## Submission
 For the submission, a title, an abstract (200 words), the name of the author(s), and an email address and affiliation of the presenting author are required.
 
-Submission details will come soon.
+The submission system will be open until **May 1**.
+
+[Submit](https://ga94zot.github.io/svcp2023_submission.github.io/)
+
 
 <!-- **<a href="https://forms.gle/AXNcvgL7TkZaFQrL6" target="_blank">Submission link</a>**  -->
 
