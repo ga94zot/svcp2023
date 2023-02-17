@@ -42,7 +42,7 @@ Registration **with** guaranteed hotel reservation: **27 Feb. 2023**
 Registration **without** guaranteed hotel reservation: **15 May 2023**
 * Price includes Coffee, Lunch, Dinner, Social Event (**no** Hotel Room): **???**
 
-**For the registration**, the [SVCP2023 Registration](/assets/images/SVCP2023_Registration.pdf) form needs to be filled in, signed and returned to [Etienne.Mayer@tum.de](etienne.mayer@tum.de)
+**For the registration**, the [SVCP2023 Registration](/assets/SVCP2023_Registration.docx) form needs to be filled in, signed and returned to [Etienne.Mayer@tum.de](etienne.mayer@tum.de)
 
 
 **The available rooms will be assigned on a first come first serve basis.**
