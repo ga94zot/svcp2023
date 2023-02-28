@@ -36,7 +36,7 @@ If there are still attendance slots open, there will be an option to also attend
 
 ## Registration
 
-Registration **with** guaranteed hotel reservation: **27 Feb. 2023**
+Registration **with** guaranteed hotel reservation: ~~27 Feb. 2023~~, **05 March 2023 (Last call)**
 * Price includes Coffee, Lunchs, Dinner, Social Event, and Hotel Room: **100€**
 
 Registration **without** guaranteed hotel reservation: **15 May 2023**
@@ -56,7 +56,7 @@ https://conferences.tu-ilmenau.de/frontend/index.php?sub=365
 Price: 200€ incl. Coffee, Lunchs, and Social Event.  -->
 
 ## Summer School Dates
-* Registration deadline (with hotel reservation): 27 Feb. 2023
+* Registration deadline (with hotel reservation): ~~27 Feb. 2023~~, **05 March 2023 (Last call)**
 * Registration deadline (without hotel reservation): 15 May 2023
 * Welcome dinner: evening of **02 July 2023 (Starts at 19:30)**
 * Summer School: **03 -- 04 July 2023** 
