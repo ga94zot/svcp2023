@@ -44,7 +44,8 @@ The aim is to bring together young researchers with similar topics and provide a
 ITG-Fachausschuss MT 2 "Bildkommunikation und Bildverarbeitung"
 
 ## Sponsors
-**Huawei**
+<!-- **Huawei** -->
+<img src="/assets/images/huawei-logo.PNG" width="160" height="80">
 
 <img src="/assets/images/eelisa-logo-v1.png" width="160" height="60">
 <!-- ![Eelisa logo](/assets/images/eelisa-logo-v1.png) -->
