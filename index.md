@@ -46,3 +46,6 @@ ITG-Fachausschuss MT 2 "Bildkommunikation und Bildverarbeitung"
 ## Sponsors
 **Huawei**
 
+
+![Eelisa logo](/assets/images/eelisa-logo.png)
+
