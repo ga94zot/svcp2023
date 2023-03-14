@@ -47,5 +47,5 @@ ITG-Fachausschuss MT 2 "Bildkommunikation und Bildverarbeitung"
 **Huawei**
 
 
-![Eelisa logo](/assets/images/eelisa-logo.png)
+![Eelisa logo](/assets/images/eelisa-logo-v1.png)
 
