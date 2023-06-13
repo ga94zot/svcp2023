@@ -24,10 +24,11 @@ photo: "header-3.jpg"
 
 
 
-## Pre-School Event
+### The program is available for download [here](/assets/SVCP23_Program.pdf).
 
-###  Joint Dinner on Sunday Evening 
-We will have a joint dinner on Sunday evening **02 July 2023**, start will be at **19:30**.
+
+##  Joint Dinner on Sunday Evening 
+We will have a joint dinner at the Restaurant Fürstenfelder on Sunday evening **02 July 2023**, start will be at **19:30**
 
 <!-- The pre-school event will be held on Sunday, **03 July 2022** at [BC-club](https://bc-club.de/) (student club of Ilmenau).
 
@@ -36,7 +37,7 @@ We will have a joint dinner on Sunday evening **02 July 2023**, start will be at
 You will receive a Welcome Snack from the barbecue and will get free entry to the club's Sunday event. This event is for PhD students and others to meet and greet and exchange before the actual summer school starts.  -->
 
 ## Keynote/Invited Lecture
-To be announced.
+Johannes Sauer (Huawei Munich Research Center): Overview JPEG-AI
 
 <!-- 
 <style type="text/css">
@@ -68,7 +69,7 @@ To be announced.
 </table> -->
 
 ## Social Event
-To be announced.
+Monday, **03 July 2023** at 19:30 (Hofbräuhaus München)
 
 <!-- It is planned to have a 2 hour networking [hike](https://www.komoot.de/tour/682677680) towards [Hotel Gabelbach](https://www.hotel-gabelbach.de/) right after Session 5 on Monday. There, an included joint dinner will take place.  -->
 
@@ -133,8 +134,8 @@ see https://docs.google.com/spreadsheets/d/1IVdIfluCmr0be2mbwWO3kygN5dKwvPShAeXn
 * Ashutosh Singla (Technische Universität Ilmenau): [Holistic Assessment of 360° Video QoE](/SVCP2022/assets/pdfs/PosterSession/svcp_Ashutosh_Singla.pdf)
  -->
  
-## Demos 
-To be announced.
+<!-- ## Demos 
+To be announced. -->
 
 <!-- 
 ### Hearing in Mixed Reality
