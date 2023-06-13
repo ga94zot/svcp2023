@@ -16,7 +16,7 @@ Submission/Registration/Payment and Important Dates are provided in the sections
 ## Submission
 For the submission, a title, an abstract (200 words), the name of the author(s), and an email address and affiliation of the presenting author are required.
 
-The submission deadline is ~~01 May 2023~~, **07 May 2023**.
+The submission deadline is **07 May 2023**.
 
 **For the submission**, the [SVCP2023 Submission](/assets/images/SVCP2023_Submission_form.docx) form needs to be filled in and returned to:
 
@@ -30,17 +30,17 @@ The submission deadline is ~~01 May 2023~~, **07 May 2023**.
 ## Options of attendance
 With an accepted abstract, you have two different options of presenting your work: 
 * An oral presentation: 15 minutes long plus 4 minutes of Q&A
-* A prepared poster that you can present to interested attendees in a specific poster session (poster format: upright, maximum size 70cm x 100cm)
+* A prepared poster that you can present to interested attendees in a specific poster session (poster format: upright **A0** or **A1**)
 
 If there are still attendance slots open, there will be an option to also attend without presenting work.
 
 ## Registration
 
-Registration **with** guaranteed hotel reservation: ~~27 Feb. 2023~~, **05 March 2023 (Last call)**
-* Price includes Coffee, Lunchs, Dinner, Social Event, and Hotel Room: **100€**
+Registration **with** guaranteed hotel reservation: **05 March 2023 (Last call)**
+* Price includes Coffee, Lunch, Dinner, Social Event, and Hotel Room: **100€**
 
 Registration **without** guaranteed hotel reservation: **15 May 2023**
-* Price includes Coffee, Lunch, Dinner, Social Event (**no** Hotel Room): **???**
+* Price includes Coffee, Lunch, Dinner, Social Event (**no** Hotel Room): **100€**
 
 **For the registration**, the [SVCP2023 Registration](/assets/SVCP2023_Registration.docx) form needs to be filled in, signed and returned to [Etienne.Mayer@tum.de](etienne.mayer@tum.de)
 
@@ -56,7 +56,7 @@ https://conferences.tu-ilmenau.de/frontend/index.php?sub=365
 Price: 200€ incl. Coffee, Lunchs, and Social Event.  -->
 
 ## Summer School Dates
-* Registration deadline (with hotel reservation): ~~27 Feb. 2023~~, **05 March 2023 (Last call)**
+* Registration deadline (with hotel reservation): **05 March 2023 (Last call)**
 * Registration deadline (without hotel reservation): 15 May 2023
 * Welcome dinner: evening of **02 July 2023 (Starts at 19:30)**
 * Summer School: **03 -- 04 July 2023** 
