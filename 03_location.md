@@ -18,9 +18,7 @@ Address: **Fürstenfeld 12, 82256 Fürstenfeldbruck**
 
 ### [Hotel Fürstenfelder](https://www.fuerstenfelder.com/)
 
-Hotel rooms can be reserved via the early registration. The available rooms will be assigned on a FCFS basis. Registrations received after 
-
-**05 March 2023 (Last call)** do not include a hotel reservation.
+Hotel rooms can be reserved via the early registration. The available rooms will be assigned on a FCFS basis. Registrations received after **05 March 2023 (Last call)** do not include a hotel reservation.
 
 
 
